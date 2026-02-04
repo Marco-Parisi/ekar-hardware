@@ -4,4 +4,4 @@ The **EKAR** muon detector, located at the Cima Ekar observatory in Padua, Italy
 <img src="https://github.com/user-attachments/assets/b88fbb2b-bf8c-40a0-9d61-8cf67c78eff4" width="500"/>
 </p>
 
-Data can be readed by [Muon Detector Reader](https://github.com/Marco-Parisi/MuonDetectorReader) software.
+Data can be readed by [Muon Detector Reader](https://github.com/Marco-Parisi/ekar-software) software.
